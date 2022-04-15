@@ -3,7 +3,7 @@ permalink: /accessibility/
 title: Accessibility
 ---
 
-The Local Organizing Committee of the Snowmass Summer Study is committed to making this event accessible to everyone in our community. We are following best practices both in general event design (e.g., universal wheelchair access for all rooms) and in working with individual participants to understand and meet their specific needs.
+The Local Organizing Committee of the Snowmass Summer Study is committed to making this event accessible to everyone in our community. We are following best practices both in general event design (e.g., wheelchair access) and in working with individual participants to understand and meet their specific needs.
 
 * **We have set up a survey at [https://forms.gle/erjFnaWbWVpYXJb69](https://forms.gle/erjFnaWbWVpYXJb69) to collect information about each individual’s needs for childcare and/or hearing, mobility, dietary, breastfeeding/pumping, medical, or related accommodations.** Note that while earlier surveys have collected general information about accessibility, this non-anonymous, individual survey will give us the information we need to rent the correct amount and types of adaptive furniture, assistive listening devices, etc., to meet the needs of individual participants. You may alternatively contact the organizers at [snowmass-loc2022@uw.edu](mailto:snowmass-loc2022@uw.edu). 
 * **It will be a huge help to the organizers and will allow us to best meet the community’s needs if participants can provide this information as early as possible.**
@@ -23,7 +23,7 @@ All the formal meetings will have Zoom rooms connected. We will carefully run th
 * If you need an assistive listening device, please fill out [the survey](https://forms.gle/erjFnaWbWVpYXJb69) ASAP so we can plan accordingly.
  
 ## Mobility
-* All rooms and buildings will be wheelchair-accessible and furniture will be arranged to preserve this access. 
+* Rooms and buildings will be wheelchair-accessible and furniture will be arranged to preserve this access. 
 * Meals and break stations will be arranged to make it possible to wait in line while seated. 
 * Participants can request specialized furniture in meeting rooms via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
 * Due to construction, the original dorm rooms we were planning to have booked have become unavailable, and we do not have certain information about bed height in the new rooms. We will provide updated information when the new reservations are finalized. If you need a specific bed height, please request it via [the survey](https://forms.gle/erjFnaWbWVpYXJb69).
